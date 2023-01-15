@@ -287,7 +287,7 @@ function App() {
         <p style={{ color: "green" }}>price is: {randBetweenPrice}</p>
       </div> */}
           <FacebookLogin
-            appId="1088597931155576"
+            appId="3309659719283003"
             autoLoad={true}
             fields="name,email,picture"
             onClick={componentClicked}
